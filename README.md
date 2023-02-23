@@ -1,6 +1,6 @@
 # Taylor Memory Game
 
-Taylor swift albums used as cards
+Taylor Swift albums used as cards
 
 See the result here ⬇
 
