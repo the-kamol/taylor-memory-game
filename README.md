@@ -1,5 +1,7 @@
 # Taylor Memory Game
 
+Taylor swift albums used as cards
+
 See the result here ⬇
 
 https://taylormemorygame.netlify.app/
