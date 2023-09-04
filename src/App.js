@@ -103,6 +103,8 @@ function App() {
 			</div>
 			<p>
 				Turns: <strong>{turns}</strong>
+				<br />
+				<i>Try to win in 15 turns</i>
 			</p>
 		</div>
 	);
