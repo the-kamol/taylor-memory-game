@@ -48,15 +48,26 @@ button:hover {
 }
 
 @media (max-height: 800px) {
+	body {
+		font-size: 1.3em;
+	}
 	.App {
+		max-width: 710px;
 		margin: 20px auto 0;
 	}
 	h1 {
-		font-size: 35px;
+		font-size: 30px;
+	}
+	.desc {
+		font-size: 14px;
 	}
 	.card-grid {
 		margin-top: 20px;
 		grid-gap: 4px;
+	}
+	button {
+		padding: 8px 16px;
+		font-size: 12px;
 	}
 }
 
