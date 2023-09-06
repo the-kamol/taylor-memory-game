@@ -47,7 +47,7 @@ button:hover {
 	grid-gap: 8px;
 }
 
-@media (max-height: 800px) {
+@media (max-height: 820px) {
 	body {
 		font-size: 1.3em;
 	}
